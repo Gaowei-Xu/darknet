@@ -1,0 +1,5 @@
+classes = 2
+train  = data/pets/train.txt
+valid  = data/pets/valid.txt
+names = data/pets.names
+backup = backup/pets/

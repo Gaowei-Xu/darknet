@@ -1,0 +1,5 @@
+classes = 1
+train  = data/faces/train.txt
+valid  = data/faces/valid.txt
+names = data/faces.names
+backup = backup/faces/
