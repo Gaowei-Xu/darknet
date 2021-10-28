@@ -2,4 +2,4 @@ classes = 5
 train  = data/persons/train.txt
 valid  = data/persons/valid.txt
 names = data/persons.names
-backup = backup/persons/
+backup = backup/persons
